@@ -1,14 +1,14 @@
-title: PrettyPDF
-author: Nicola Rennie
+title: wiseopen-pdf
+author: Michel Lopez
 version: 0.0.1
 contributes:
   formats: 
     pdf:
       include-in-header: 
-       - "PrettyPDF.tex"
+       - "woPDF.tex"
       include-before-body:
        - "pagestyle.tex"
-      toc: false
+      toc: true
       code-block-bg: light
       linkcolor: highlight
       urlcolor: highlight

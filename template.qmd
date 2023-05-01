@@ -1,6 +1,6 @@
 ---
-title: "Pretty PDFs with Quarto"
-format: PrettyPDF-pdf
+title: "Wise Open pdf template"
+format: wiseopen-pdf
 ---
 
 ## Quarto
