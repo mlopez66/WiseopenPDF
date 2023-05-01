@@ -1,11 +1,11 @@
-title: wiseopen-pdf
+title: WiseopenPDF
 author: Michel Lopez
 version: 0.0.1
 contributes:
   formats: 
     pdf:
       include-in-header: 
-       - "woPDF.tex"
+       - "WiseopenPDF.tex"
       include-before-body:
        - "pagestyle.tex"
       toc: true

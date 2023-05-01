@@ -7,19 +7,18 @@ Quarto extension for a template to generate a WiseOpen PDF with LaTeX styling.
 To install the Quarto extension, create a directory, and use the template file:
 
 ``` bash
-quarto use template mlopez66/wo-template
-```
+quarto use template mlopez66/WiseopenPDF
 
 To use the extension in an existing project without installing the template file:
 
 ``` bash
-quarto install extension mlopez66/wo-template
+quarto install extension mlopez66/WiseopenPDF
 ```
 Note that you will need to update the output format to `format: wiseopen-pdf` to enable use of the extension.
 
 ## Changing colours and logo
 
-If you want to update this template to use a different colour or logo, open up the `_extensions/nrennie/PrettyPDF/PrettyPDF.tex` file after you have installed the extension.
+If you want to update this template to use a different colour or logo, open up the `_extensions/mlopez66/WiseopenPDF/WiseopenPDF.tex` file after you have installed the extension.
 
 ### Logo
 

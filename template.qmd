@@ -1,6 +1,6 @@
 ---
 title: "Wise Open pdf template"
-format: wiseopen-pdf
+format: WiseopenPDF-pdf
 ---
 
 ## Quarto
